@@ -1,4 +1,4 @@
-package com.chengg.meizitoutiao;
+package com.chengg.meizitoutiao.ui;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

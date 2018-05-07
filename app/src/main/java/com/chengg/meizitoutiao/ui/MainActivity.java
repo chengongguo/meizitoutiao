@@ -1,4 +1,6 @@
-package com.chengg.meizitoutiao;
+package com.chengg.meizitoutiao.ui;
+
+import com.chengg.meizitoutiao.R;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
